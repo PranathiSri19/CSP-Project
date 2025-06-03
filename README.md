@@ -2,7 +2,7 @@
 
 This repository contains the documentation, data analysis, and findings of our Community Service Project (CSP) focused on evaluating the state of **elementary education in Sriharipuram**, a rural habitation. The objective of this project was to understand the current educational landscape, identify gaps, and propose actionable recommendations to enhance the quality of education for young learners.
 
-## 📌 'Project Overview'
+## 📌 Project Overview
 
 As part of the CSP initiative, our team conducted a comprehensive socio-economic survey targeting:
 - Government and private elementary schools
